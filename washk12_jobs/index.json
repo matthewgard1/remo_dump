@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 71,
+  "job_count": 75,
   "jobs": [
     {
       "job_id": "10676",
@@ -393,7 +393,7 @@
       "location": "Diamond Valley Elementary",
       "date_posted": "5/27/2025",
       "date_available": "08/11/2025",
-      "closing_date": "06/03/2025",
+      "closing_date": "06/17/2025",
       "status": "Part Time, 24 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
@@ -514,10 +514,10 @@
       "date_posted": "6/3/2025",
       "date_available": "08/11/2025",
       "closing_date": "06/09/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "status": "Part Time, 20 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:Part Time, 20 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Behavior Support Technician - General Education.pdf",
@@ -725,6 +725,46 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10899"
+    },
+    {
+      "job_id": "10925",
+      "title": "Paraprofessional Substitute",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Coral Canyon Elementary",
+      "date_posted": "6/3/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "06/10/2025",
+      "status": "On-Call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:On-Call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94016"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10925"
+    },
+    {
+      "job_id": "10926",
+      "title": "Computer Lab Assistant (Elementary)",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Sunset Elementary",
+      "date_posted": "6/3/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "06/10/2025",
+      "status": "Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, plea...",
+      "attachments": [
+        {
+          "text": "Computer Lab Assistant, Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94020"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10926"
     },
     {
       "job_id": "10695",
@@ -1115,10 +1155,10 @@
       "date_posted": "4/28/2025",
       "date_available": "08/11/25",
       "closing_date": "06/12/25",
-      "status": "Part Time, 22 hours per week and2 - Part Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "status": "Part Time, 13.5 hours per week andPart Time, 22 hours per week andPart Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 22 hours per week and2 - Part Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:Part Time, 13.5 hours per week andPart Time, 22 hours per week andPart Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Paraprofessional.pdf",
@@ -1129,20 +1169,28 @@
     },
     {
       "job_id": "10739",
-      "title": "Computer Lab Assistant (Elementary)",
+      "title": "Paraprofessional, ESL Assistant and Computer Lab Assistant (Elementary)",
       "position_type": "Paraprofessional/Assistant",
       "location": "Legacy Elementary",
       "date_posted": "4/28/2025",
       "date_available": "08/11/25",
       "closing_date": "06/12/25",
-      "status": "Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, plea...",
+      "status": "Part Time, 12.5\u00a0hours per week - Paraprofessional andPart Time, 9 hours per week - ESL AsstPart Time, 6 hours per week - Computer Lab AsstTotal 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfESL Assistant.docx.pdfParaprofessional - Google Docs.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfESL Assistant.docx.pdfParaprofessional - Google Docs.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfESL Assistant.docx.pdfParaprofessional - Google Docs.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 12.5\u00a0hours per week - Paraprofessional andPart Time, 9 hours per week - ESL AsstPart Time, 6 hours per week - Computer Lab AsstTotal 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers prefer...",
       "attachments": [
         {
           "text": "Computer Lab Assistant, Elementary.pdf",
           "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93048"
+        },
+        {
+          "text": "ESL Assistant.docx.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94018"
+        },
+        {
+          "text": "Paraprofessional - Google Docs.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94017"
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10739"
@@ -1346,6 +1394,54 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10814"
+    },
+    {
+      "job_id": "10924",
+      "title": "Lead Finance Secretary - Elementary School - Full Time",
+      "position_type": "Secretarial",
+      "location": "Paradise Canyon Elementary",
+      "date_posted": "6/3/2025",
+      "date_available": "07/28/2025",
+      "closing_date": "06/10/2025",
+      "status": "Full Time, 1 FTEMinimum Requirements:Associate's Degree or equivalent in accounting or business; or two years related experience and/or training; or equivalent combination of education and experience.Ability to use financial software, spreadsheets (e.g. Microsoft Excel, Google Sheets), and documents (e.g. Microsoft Excel, Google Docs).The salary for this position is assigned to Level 8 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Lead Finance Secretary, Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's Degree or equivalent in accounting or business; or two years related experience and/or training; or equivalent combination of education and experience.Ability to use financial software, spreadsheets (e.g. Microsoft Excel, Google Sheets), and documents (e.g. Microsoft Excel, Google Docs).The salary for this position is assigned to Level 8 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Lead Finance Secretary, Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Lead Finance Secretary, Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEMinimum Requirements:Associate's Degree or equivalent in accounting or business; or two years related experience and/or training; or equivalent combination of education and experience.Ability to use financial software, spreadsheets (e.g. Microsoft Excel, Google Sheets), and documents (e.g. Microsoft Excel, Google Docs).The salary for this position is assigned to Level 8 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedul...",
+      "attachments": [
+        {
+          "text": "Lead Finance Secretary, Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94015"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10924",
+      "fte": "1 FTE"
+    },
+    {
+      "job_id": "10923",
+      "title": "Special Education Mild/Moderate Teacher and Elementary Interventionist - Full Time",
+      "position_type": "SPED Teaching/Certified",
+      "location": "Coral Canyon Elementary",
+      "date_posted": "6/3/2025",
+      "date_available": "08/04/2025",
+      "closing_date": "06/10/2025",
+      "status": "Part Time, .5 FTE - SPED MILDMODPart Time, .5 FTE - INTERVENTIONISTMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary Exempt).docx.pdfSpecial Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary Exempt).docx.pdfSpecial Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary Exempt).docx.pdfSpecial Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, .5 FTE - SPED MILDMODPart Time, .5 FTE - INTERVENTIONISTMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Intervention Teacher (Elementary Exempt).docx.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94014"
+        },
+        {
+          "text": "Special Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94013"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10923",
+      "fte": "5 FTE",
+      "endorsements_required": "preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary Exempt).docx.pdfSpecial Education Teacher.pdfEmail To A FriendPrint Version",
+      "license_requirements": "cial Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Sch"
     },
     {
       "job_id": "10903",
